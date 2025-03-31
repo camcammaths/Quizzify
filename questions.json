@@ -1,11 +1,11 @@
 [
     {
-        "question" : "The International Literacy Day is observed on ?",
-        "choice1" : "Sep 8",
-        "choice2" : "Nov 28",
-        "choice3" : "May 2",
-        "choice4" : "Sep 22",
-        "answer" : 1
+        "question" : "Est ce que 12 est divisible par ?",
+        "choice1" : "3",
+        "choice2" : "5",
+        "choice3" : "10",
+        "choice4" : "13",
+        "answer" : 3
 
     },
     {
